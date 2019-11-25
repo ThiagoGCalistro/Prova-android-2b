@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Prova</string>
+    <string-array name="categoria">
+        <item>Rock</item>
+        <item>Eletronico</item>
+        <item>Samba</item>
+        <item>POP</item>
+    </string-array>
+</resources>
